@@ -39,7 +39,7 @@ const UpcomingMatch = () => {
     <>
     {upcomingdata.map((post)=>(
 
-        <div className='max-w-lg grid grid-cols-4'>
+        <div className=''>
      
         <div className='bg-gray-800 mt-4 rounded-2xl justify-start items-center p-3 text-white font-semibold flex gap-2'>
                         <span className='bg-red-600 p-1 rounded-md'>
